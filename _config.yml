@@ -1,18 +1,16 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+title: GMmario's blog
+description: "A blog about MintNetwork ..."
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+username: GMmario
+user_title: GMmario - MintNetwork Developer
+email: pkmin0422@naver.com/
+twitter_username: 
+github_username:  GMmario
+gplus_username:  
+linkedin_public_url: 
+disqus_username: 
+profile_picture: https://78.media.tumblr.com/a2f63aa1e708bb7e48f543183176ae20/tumblr_oz3lwbcLdJ1wuzsgso1_1280.jpg
 
 # Build settings
 markdown: kramdown
